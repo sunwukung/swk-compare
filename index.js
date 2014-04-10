@@ -1,0 +1,1 @@
+module.exports = require('./lib/k-valid.js');

@@ -1,1 +1,1 @@
-module.exports = require('./lib/k-valid.js');
+module.exports = require('./lib/swk-valid.js');

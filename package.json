@@ -1,18 +1,18 @@
 {
-  "name": "swk-valid",
-  "description": "simple validation library",
+  "name": "swk-compare",
+  "description": "simple comparison library",
   "version": "0.0.1",
   "author": {
     "name": "Marcus Kielly"
   },
   "licenses": [
     {
-      "type": "MIT"
+      "type": "BSD-2-Clause"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:sunwukung/swk-valid.git"
+    "url": "git@github.com:sunwukung/swk-compare.git"
   },
   "main": "loader.js",
   "engines": {
